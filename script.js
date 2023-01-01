@@ -1,0 +1,1 @@
+var res=button.addEventListener("button");
